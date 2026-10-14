@@ -8,10 +8,11 @@
    - Double Switch Procedure
    - Balloon Atrial Septostomy (BAS)
 5. Fresh blood protocol
-6. High alert medications
-7. Intubation and Extubation
-8. Sedation
-9. Bypass machine
-10. Post-cardiac surgery complications
-11. Comprehensive head-to-toe Pediatric assessment 
+6. Blood products
+7. High alert medications
+8. Intubation and Extubation
+9. Sedation
+10. Bypass machine
+11. Post-cardiac surgery complications
+12. Comprehensive head-to-toe Pediatric assessment 
 
